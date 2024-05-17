@@ -6,18 +6,6 @@ Brush up on your Minesweeper history [here](<https://en.wikipedia.org/wiki/Mines
 
 Do you know what an actual Minesweeper is? I didn't either until I read [this](https://en.wikipedia.org/wiki/Minesweeper).
 
-### Basic Gameplay
-
-1. Select your difficulty level.
-
-- Easy = 9x9, 10 mines
-- Medium = 16x16, 40 mines
-- Hard = 30x30, 160 mines
-
-2. Click anywhere on the board to begin and start the timer.
-   \*The numbers depict how many mines are adjacent to any given cell.
-3. Use **"Shift + Click"** to add flags to a cell if you think it's a mine.
-
 ### Winning/Losing
 
 - If you hit a mine... game over, homie.
