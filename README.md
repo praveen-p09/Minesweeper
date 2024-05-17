@@ -6,6 +6,8 @@ Brush up on your Minesweeper history [here](<https://en.wikipedia.org/wiki/Mines
 
 Do you know what an actual Minesweeper is? I didn't either until I read [this](https://en.wikipedia.org/wiki/Minesweeper).
 
+![Screenshot 2024-05-12 174023](https://github.com/praveen-p09/Minesweeper/assets/128630671/9e813f19-7770-4c08-9d6f-7aa23cc53c8f)
+
 ### Winning/Losing
 
 - If you hit a mine... game over, homie.
